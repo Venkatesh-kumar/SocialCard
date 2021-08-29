@@ -1,0 +1,76 @@
+.cardimage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 190px;
+    margin-bottom: 190px;
+}
+
+.smartcardcontainer{
+    background-color: rgb(236, 241, 245);
+    padding-bottom: 75px;
+}
+
+.mobileimage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 75px;
+}
+
+
+
+.shippingaddresscontainer{
+    border: 1px solid grey;
+    padding: 50px;
+    margin-top: 20px;
+    background-color: rgb(249, 249, 249);
+}
+
+.detailscontainer{
+    margin-top: 50px;
+}
+
+.promobutton{
+    margin-top: 24px;
+}
+
+
+.amountbutton{
+    padding: 10px ;
+    border: 1px solid #c1c1c1;
+}
+
+.checkoutbutton{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border: 1px solid grey;
+  background-color: mediumseagreen;
+  padding: 18px;
+  color: white;
+}
+
+.checkoutbutton:hover{
+    background-color: skyblue;
+    color: black;
+}
+
+
+.Errorstext{
+  color: red;
+}
+
+.promocodetext{
+  color:rgb(149, 207, 60)
+}
+
+
+.checkout-content{
+  padding-top: 200px;
+ background-color: rgb(245, 250, 247);
+}
+
+.alreadyusercontainer{
+    border: 1px solid greenyellow;
+    padding: 10px;
+}

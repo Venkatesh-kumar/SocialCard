@@ -1,0 +1,17 @@
+.nav-wrapper {
+    background-color: #1976d2;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+
+.brand-logo{
+    font-weight: bold;
+}
+
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    nav .brand-logo {
+      font-size: 1.5rem;
+    }
+  }

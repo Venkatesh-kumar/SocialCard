@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Questrial|Raleway&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Comfortaa&display=swap");
+
+.header-content {
+  padding: 20px;
+}
+
+.header-content h2 {
+  font-size: 35px;
+  color: #7552cd;
+}
+
+.header-content p {
+  font-size: 15px;
+  color: #747c7c;
+  line-height: 1.5;
+  margin: 32px 0 34px 0px;
+  font-family: -webkit-body;
+}
+
+#header-button {
+  border: 3px solid #7552cd;
+  background-color: #7552cd;
+  color: white;
+  font-family: cursive;
+  font-size: 18px;
+  border-radius: 45px;
+}
+
+#header-img {
+  padding: 0px 10px !important;
+  width: 100%;
+  margin-top: 22%;
+}
+
+.header {
+  height: 100vh;
+  background: url(../../images/header-bg.png);
+
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

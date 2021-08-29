@@ -1,0 +1,55 @@
+
+
+  .profile{
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+.profileimage{
+    border-radius: 100px;
+}
+.uniquename{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.profilecontainer{
+    border: solid 1px grey;
+    border-radius: 15px;
+    padding: 5px;
+    width:100%;
+    box-shadow: -3px -3px 10px #fff, 5px 5px 15px #000;
+ }
+
+
+.profilecontainer:hover{
+  -webkit-transform: translateY(0px) scale(1);
+transform: translateY(0px) scale(1);
+box-shadow: 0 5px 5px 5px rgba(0, 0, 0, 0.3);
+z-index: 1;
+cursor: pointer;
+}
+
+.socialnetworkname{
+  margin-top: 10px;
+  font-weight: bold;
+  color:black
+}
+
+
+
+.publicprofile{
+ 
+  margin-top: 20px;
+}
+
+.privateprofile{
+  border: dotted 3px rgb(0, 153, 255);
+  padding: 20px;
+}
+
+.editprofileicon{
+  margin-top: 15px;
+}
+.editprofilecontainer{
+  box-shadow: -3px -3px 7px white, 5px 5px 15px black;
+}

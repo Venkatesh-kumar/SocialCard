@@ -1,0 +1,17 @@
+.editorcont{
+    background-color: mediumseagreen;
+}
+
+.viewcont{
+    background-color: mediumslateblue;
+}
+
+.searchkeycontainer{
+    margin-top: 100px;
+    margin-bottom: 250px;
+    border: 1px solid grey;
+}
+
+.keycheckbutton{
+    margin-top: 30px;
+}

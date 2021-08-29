@@ -1,0 +1,184 @@
+.reviewshead {
+  background-color: #1976d2;
+}
+
+.bannertext {
+  font-size: 50px;
+}
+.carouselcontainer {
+  margin-bottom: 30px;
+  background-color: #1976d2;
+}
+.carouselfacebookcard {
+  background-color: #1565c0;
+  color: white;
+}
+
+.carouselinstagramcard {
+  background-color: #ee1010;
+  color: white;
+}
+
+.carouselwhatsappcard {
+  background-color: #43a047;
+  color: white;
+}
+
+.carousellinkedincard {
+  background-color: #42a5f5;
+  color: white;
+}
+
+.carouselyoutubecard {
+  background-color: #b71c1c;
+  color: white;
+}
+
+.carouseltwittercard {
+  background-color: rgb(9, 140, 247);
+  color: white;
+}
+
+.carouselsoundcloudcard {
+  background-color: rgb(228, 67, 18);
+  color: white;
+}
+
+.carouselwebsitecard {
+  background-color: rgb(18, 196, 228);
+  color: white;
+}
+
+.carouselenvelopecard {
+  background-color: rgb(25, 228, 18);
+  color: white;
+}
+
+.parallaxtext {
+  margin-top: 150px;
+}
+
+.neucontainer {
+  display: flex;
+  margin: 100px;
+  height: 150px;
+  width: 300px;
+  margin: auto;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.neu-brand-text {
+  padding-left: 15px;
+}
+.neubrand {
+  margin-top: 200px;
+  margin-left: 150px;
+}
+
+.about {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-color: #1976d2;
+}
+
+.aboutcontainer {
+  padding: 50px;
+}
+
+.aboutinfo {
+  border: 1px solid grey;
+  border-radius: 10px;
+  padding-left: 10px;
+}
+
+.step1text {
+  padding: 50px;
+}
+.step1container {
+  background-color: #1976d2;
+  color: white;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.step2container {
+  color: black;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.pricebox {
+  border: 1px solid white;
+  padding: 10px;
+}
+
+.priceboxvirtual {
+  border: 1px solid #1976d2;
+  padding: 10px;
+}
+
+.qrscanstyle {
+  height: 350px;
+  width: 450px;
+  border-radius: 50px;
+}
+
+.videosection {
+  background-color: white;
+}
+
+@media only screen and (max-width: 480px) {
+  .qrscanstyle {
+    height: 180px;
+    width: 200px;
+    border-radius: 25px;
+  }
+}
+
+.step1card {
+  margin-top: 100px;
+}
+
+.step3container {
+  background-color: #1976d2;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.howitworks {
+  padding-top: 50px;
+}
+
+.getnowcontainer {
+  padding: 100px;
+  background-color: #1976d2;
+}
+
+.onetimefee {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding: 10px;
+}
+
+.page-footer {
+  background-color: #1976d2;
+}
+
+.buynowbtn {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.shadowbanner {
+  align-self: center;
+  justify-content: center;
+  display: flex;
+}
+
+.bannercontainer {
+  margin-top: 150px;
+}
+
+.sliders .indicators .indicator-item.active {
+  background-color: #1976d2;
+}
